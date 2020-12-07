@@ -1,4 +1,4 @@
 # passwordgenerator
 Presenting a GUI app for generating password.
 Say goodbye to thinking passwords
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 112)
+https://github.com/devesh0605/passwordgenerator/blob/master/Test%20Case%202.png
